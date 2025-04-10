@@ -1,0 +1,54 @@
+m255
+K3
+13
+cModel Technology
+dD:\ModelSim\modelsim_ase\examples
+vEx2_OR
+IBHF=GGAcbBnioMgAGLo`Q0
+VYfliPh^TfB6O=FTZ0CUe30
+Z0 dD:\Lab4_Varshavskiy
+w1743858779
+8D:/Lab4_Varshavskiy/Ex2_name_OR.v
+FD:/Lab4_Varshavskiy/Ex2_name_OR.v
+L0 1
+Z1 OV;L;6.5b;42
+r1
+31
+Z2 !s102 -nocovercells
+Z3 o-work work -nocovercells -O0
+n@ex2_@o@r
+!s100 nRDmkFVK0BEch8[H[GDob0
+!s85 0
+!s101 -O0
+vmdnf
+I_BcLGG0o3MokQliM6=Z6j3
+VkmiZGFkb14LKJiUZZK:HI0
+Z4 dD:\Lab4_Varshavskiy
+w1743932916
+8D:/Lab4_Varshavskiy/mdnf.v
+FD:/Lab4_Varshavskiy/mdnf.v
+L0 1
+R1
+r1
+31
+R2
+R3
+!s100 ?9A9NMiYaOiRV:@[8MP642
+!s85 0
+!s101 -O0
+vmknf
+!s100 bk6GJD;VS8bQDDBnH<jIH1
+IIY_93@ER8AE]>N:?8aPRQ2
+VGljSVBD`bmR?SAoomRXag0
+R4
+w1743932536
+8D:/Lab4_Varshavskiy/mknf.v
+FD:/Lab4_Varshavskiy/mknf.v
+L0 1
+R1
+r1
+!s85 0
+31
+!s101 -O0
+R2
+R3
